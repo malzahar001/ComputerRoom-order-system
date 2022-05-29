@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e7ba99c2-862c-472b-b002-bd40ebe89d44": {
+      "ProjectGuid": "e7ba99c2-862c-472b-b002-bd40ebe89d44",
+      "DisplayName": "机房预约系统",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
